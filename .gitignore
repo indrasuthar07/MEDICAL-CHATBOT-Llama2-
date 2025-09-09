@@ -5,11 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
-Medical_Chatbot.egg-info
 # Distribution / packaging
 .Python
 build/
-develop-eggs/
+
+
 dist/
 downloads/
 eggs/
